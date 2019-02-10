@@ -1,2 +1,4 @@
-# lottery-th-rest
-Lottery rest api service for checking lottery  and getting numbers which win
+# Lottery thailand rest api
+API services สำหรับการตรวจหวย
+
+ผมขอขอบคุณแหล่งข้อมูลผลสลากกินแบ่งรัฐบาลจาก https://www.lottery.co.th/
