@@ -10,18 +10,18 @@ API services สำหรับการตรวจหวย
 
 
 ## Getting Started
-Start docker contianers
+เริ่มการใช้งาน docker contianers
 ```bash
 docker-compose -f docker/docker-compose.yml up -d --build
 ```
 
-Stop docker contianers
+หยุดการใช้งาน docker contianers
 ```bash
 docker-compose -f docker/docker-compose.yml down
 ```
 
 ## Usage
-
+หลังจาก docker เริ่มทำงานเราก็จะสามารถใช้งาน [api.lottery-th.local](http://api.lottery-th.local) ได้
 
 ## License
 Apache License V 2.0
