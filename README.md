@@ -1,4 +1,4 @@
-# Lottery thailand rest api
+# RESTful api for thai lottery
 API services สำหรับการตรวจหวย
 
 ขอขอบคุณแหล่งข้อมูลผลสลากกินแบ่งรัฐบาลจาก https://www.lottery.co.th/
