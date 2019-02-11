@@ -10,6 +10,13 @@ API services สำหรับการตรวจหวย
 
 
 ## Getting Started
+ติดตั้ง npm dependencies
+```bash
+cd api.lotery-th
+npm i
+cd ..
+```
+
 เริ่มการใช้งาน docker contianers
 ```bash
 docker-compose -f docker/docker-compose.yml up -d --build
@@ -21,7 +28,9 @@ docker-compose -f docker/docker-compose.yml down
 ```
 
 ## Usage
-หลังจาก docker เริ่มทำงานเราก็จะสามารถใช้งาน [api.lottery-th.local](http://api.lottery-th.local) ได้
+หลังจาก docker เริ่มทำงานเราก็จะสามารถใช้งาน 
+* [localhost](localhost) 
+* หรือ [api.lottery-th.local](http://api.lottery-th.local) ในกรณีที่ใช้ [Virtual Machine](./vm/development) 
 
 ## License
 Apache License V 2.0
